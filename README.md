@@ -43,13 +43,6 @@ A passion project — predicting the next opponent in Magic Chess Go Go using hi
 
 ---
 
-## 📊 GitHub Stats
-
-![Rafif's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifshaf-fun&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifshaf-fun&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafif-shafwan)
