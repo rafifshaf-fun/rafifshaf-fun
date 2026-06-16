@@ -1,6 +1,6 @@
 # Hi, I'm Rafif 👋
 
-**Independent AI Consultant · ML Engineer · MLOps Specialist**
+**· ML Engineer · Data Scientist · Independent AI Consultant**
 
 I build machine learning systems that *actually ship* — not just notebooks that collect dust. Over 6 years of delivering production ML across finance, computer vision, LLM/RAG applications, and full-stack financial software for institutional clients.
 
