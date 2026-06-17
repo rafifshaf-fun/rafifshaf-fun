@@ -1,6 +1,6 @@
 # Hi, I'm Rafif 👋
 
-**· ML Engineer · Data Scientist · Independent AI Consultant**
+** AI/ML Engineer · Data Scientist · Fullstack Developer**
 
 I build machine learning systems that *actually ship* — not just notebooks that collect dust. Over 6 years of delivering production ML across finance, computer vision, LLM/RAG applications, and full-stack financial software for institutional clients.
 
